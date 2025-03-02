@@ -1,0 +1,1 @@
+0 = None | 1 = Rafiki (invisibility) | 2 = Nala (night vision) | 3 = Sarabi (energy manipulation) | 4 = Zazu (weather control) | 5 = Sarafina (super speed)

@@ -1,0 +1,1 @@
+g++ -Wall -Werror -Wpedantic -std=c++17 Player.cpp Board.cpp Tile.cpp Game.cpp utils.cpp Events.cpp Riddles.cpp gameDriver.cpp
